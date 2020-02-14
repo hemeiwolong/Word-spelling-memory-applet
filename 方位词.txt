@@ -1,0 +1,66 @@
+East
+东
+south
+南
+west
+西
+north
+北
+northeast
+东北
+northwest
+西北
+southwest
+西南
+southeast
+东南
+up
+上
+down
+下
+upon
+向上
+between
+在。。。之间
+among
+在。。。之中
+under
+下方
+beside
+旁边
+near
+靠近
+above
+前边
+by
+通过，用
+behind
+在后面
+before
+以前
+right
+右边
+left
+左边
+close to
+靠近
+across from
+穿过
+next to
+在旁边
+in the middle of
+在中间
+in the center of
+在中心
+in the front of
+在内部的前边
+in front of
+在前面
+at the back of
+在内部的后边
+on
+在。。。上
+at
+在
+in
+在。。。里

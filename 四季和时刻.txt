@@ -1,0 +1,16 @@
+Spring
+春天
+Summer
+夏天
+Fall/Autumn
+秋天
+Winter
+冬天
+hour
+小时
+quarter
+季度
+minute
+分
+second
+秒

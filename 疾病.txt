@@ -1,0 +1,20 @@
+cold
+寒冷，感冒
+cough
+咳嗽
+headache
+头痛
+backache
+背痛
+toothache
+牙痛
+fever
+发烧
+flu
+流感
+sore throat
+咽喉痛
+cancer
+癌症
+near-sighted
+近视的
